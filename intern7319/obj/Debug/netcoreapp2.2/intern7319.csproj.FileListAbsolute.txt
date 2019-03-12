@@ -1,0 +1,11 @@
+E:\Training\intern7319\bin\Debug\netcoreapp2.2\intern7319.deps.json
+E:\Training\intern7319\bin\Debug\netcoreapp2.2\intern7319.runtimeconfig.json
+E:\Training\intern7319\bin\Debug\netcoreapp2.2\intern7319.runtimeconfig.dev.json
+E:\Training\intern7319\bin\Debug\netcoreapp2.2\intern7319.dll
+E:\Training\intern7319\bin\Debug\netcoreapp2.2\intern7319.pdb
+E:\Training\intern7319\obj\Debug\netcoreapp2.2\intern7319.csprojAssemblyReference.cache
+E:\Training\intern7319\obj\Debug\netcoreapp2.2\intern7319.csproj.CoreCompileInputs.cache
+E:\Training\intern7319\obj\Debug\netcoreapp2.2\intern7319.AssemblyInfoInputs.cache
+E:\Training\intern7319\obj\Debug\netcoreapp2.2\intern7319.AssemblyInfo.cs
+E:\Training\intern7319\obj\Debug\netcoreapp2.2\intern7319.dll
+E:\Training\intern7319\obj\Debug\netcoreapp2.2\intern7319.pdb

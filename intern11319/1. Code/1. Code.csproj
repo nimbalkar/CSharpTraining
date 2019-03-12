@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+   <StartupObject>program.Staticvars</StartupObject>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>_1._Code</RootNamespace>
+  </PropertyGroup>
+
+</Project>

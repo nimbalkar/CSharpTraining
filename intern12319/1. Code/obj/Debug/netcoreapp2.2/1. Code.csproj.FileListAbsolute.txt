@@ -1,0 +1,11 @@
+E:\Training\intern12319\1. Code\bin\Debug\netcoreapp2.2\1. Code.deps.json
+E:\Training\intern12319\1. Code\bin\Debug\netcoreapp2.2\1. Code.runtimeconfig.json
+E:\Training\intern12319\1. Code\bin\Debug\netcoreapp2.2\1. Code.runtimeconfig.dev.json
+E:\Training\intern12319\1. Code\bin\Debug\netcoreapp2.2\1. Code.dll
+E:\Training\intern12319\1. Code\bin\Debug\netcoreapp2.2\1. Code.pdb
+E:\Training\intern12319\1. Code\obj\Debug\netcoreapp2.2\1. Code.csprojAssemblyReference.cache
+E:\Training\intern12319\1. Code\obj\Debug\netcoreapp2.2\1. Code.csproj.CoreCompileInputs.cache
+E:\Training\intern12319\1. Code\obj\Debug\netcoreapp2.2\1. Code.AssemblyInfoInputs.cache
+E:\Training\intern12319\1. Code\obj\Debug\netcoreapp2.2\1. Code.AssemblyInfo.cs
+E:\Training\intern12319\1. Code\obj\Debug\netcoreapp2.2\1. Code.dll
+E:\Training\intern12319\1. Code\obj\Debug\netcoreapp2.2\1. Code.pdb
